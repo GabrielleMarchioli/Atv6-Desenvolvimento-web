@@ -19,8 +19,3 @@ Este projeto foi desenvolvido como parte da Atividade 06 da disciplina de Desenv
 - **Git/GitHub**: Controle de versão.
 - **Vercel**: Plataforma de deploy.
 
-## Como Executar Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/atv6-desenvolvimento-web.git
